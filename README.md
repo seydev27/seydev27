@@ -9,7 +9,7 @@
 ### 👩‍💻 What I'm Doing Now
 - Researching human-centered systems through AI & HCI
 - Building front-end projects with accessibility in mind
-- Applying Python in AI, HCI, and cognitive modeling work
+- Learning to apply Python in AI, HCI, and cognitive modeling work
 
 ---
 
