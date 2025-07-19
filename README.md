@@ -19,13 +19,15 @@
 ---
 
 ### 📚 Relevant Coursework
-- Human-Computer Interaction
+- - Human-Computer Interaction
 - Artificial Intelligence
 - UX Research Methods
 - Cognitive Psychology
 - Web Development
 - Discrete Math
-- Data Structures 
+- Data Structures
+- Engineering
+- Python
 
 ---
 
