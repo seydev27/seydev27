@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Margaret Seymour
 
 🎓 CS Undergrad @ Oregon State University ’27  
-💡 Focus: AI + HCI | Minor in UX Research & Cognitive Psychology  
+💡 Focus: AI + HCI | Minor in UX Research  
 💼 ex-Microsoft (Product Marketing) | NN/g UX Certified  
 
 ---
