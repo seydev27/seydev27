@@ -19,7 +19,7 @@
 ---
 
 ### 📚 Relevant Coursework
-- - Human-Computer Interaction
+- Human-Computer Interaction
 - Artificial Intelligence
 - UX Research Methods
 - Cognitive Psychology
