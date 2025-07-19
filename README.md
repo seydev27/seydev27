@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Margaret (Peggy) Seymour
 
-<!--
-**seydev27/seydev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Undergrad @ Oregon State University ’27  
+💡 Focus: AI + HCI | Minor in UX Research & Cognitive Psychology  
+💼 ex-Microsoft (Product Marketing) | NN/g UX Certified  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 What I'm Doing Now
+- Researching human-centered systems through AI & HCI
+- Building front-end projects with accessibility in mind
+- Applying Python in AI, HCI, and cognitive modeling work
+
+---
+
+### 🛠️ Tools & Tech
+`React` • `HTML/CSS` • `JavaScript` • `Python` • `Figma` • `Jupyter` • `Git/GitHub`
+
+---
+
+### 📚 Relevant Coursework
+- Human-Computer Interaction
+- Artificial Intelligence
+- UX Research Methods
+- Cognitive Psychology
+- Web Development
+
+---
+
+### 🔗 Portfolio & Links
+- 🌐 [uxgo.io](https://uxgo.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/margaret-seymour)
+- 📬 seydev27@gmail.com
+
+---
+
+> *Researcher’s brain. Designer’s eye. Developer’s hands.*
