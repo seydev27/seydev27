@@ -24,6 +24,8 @@
 - UX Research Methods
 - Cognitive Psychology
 - Web Development
+- Discrete Math
+- Data Structures 
 
 ---
 
