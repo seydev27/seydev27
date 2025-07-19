@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Margaret (Peggy) Seymour
+# 👋 Hi, I'm Margaret Seymour
 
 🎓 CS Undergrad @ Oregon State University ’27  
 💡 Focus: AI + HCI | Minor in UX Research & Cognitive Psychology  
