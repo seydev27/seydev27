@@ -34,4 +34,4 @@
 
 ---
 
-> *Researcher’s brain. Designer’s eye. Developer’s hands.*
+> *Briding UX research, front-end dev, and HCI for AI thinking.*
