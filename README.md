@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Tools & Tech
-`React` • `HTML/CSS` • `JavaScript` • `Python` • `Figma` • `Jupyter` • `Git/GitHub`
+• `HTML/CSS` • `JavaScript` • `Python` • `Figma` • `Jupyter` • `Git/GitHub`
 
 ---
 
