@@ -13,11 +13,9 @@
 
 ---
 
-🛠️ Tools & Tech
-• HTML/CSS • JavaScript • Python
-• Figma • Miro • Balsamiq • Canva
-• Optimal Workshop • PowerMapper Cloud
-• Jupyter • Git/GitHub
+### 🛠️ Tools & Tech  
+HTML/CSS · JavaScript · Python · Jupyter · Git/GitHub · Figma · Miro · Balsamiq · Canva · Optimal Workshop · PowerMapper Cloud · NN/g Research Processes
+
 ---
 
 ### 📚 Relevant Coursework
