@@ -13,9 +13,11 @@
 
 ---
 
-### 🛠️ Tools & Tech
-• `HTML/CSS` • `JavaScript` • `Python` • `Figma` • `Jupyter` • `Git/GitHub`
-
+🛠️ Tools & Tech
+• HTML/CSS • JavaScript • Python
+• Figma • Miro • Balsamiq • Canva
+• Optimal Workshop • PowerMapper Cloud
+• Jupyter • Git/GitHub
 ---
 
 ### 📚 Relevant Coursework
