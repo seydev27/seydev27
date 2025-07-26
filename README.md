@@ -40,4 +40,4 @@ Data Structures · Engineering · Python
 
 ---
 
-> Bridging UX research, front-end dev, and HCI for AI thinking.
+> Bridging UX research, front-end dev, and HCI for AI solutions.
